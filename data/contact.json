@@ -1,0 +1,23 @@
+[
+  { 
+    "name": "John Coder",
+    "email": "john@coder.com",
+    "phone": "800-456-1234",
+    "birthdate": "04/01/2018",
+    "id": 1
+  },
+  { 
+    "name": "Data's Person",
+    "email": "data@person.com",
+    "phone": "800-123-4567",
+    "birthdate": "01/02/1999",
+    "id": 2
+  },
+  { 
+    "name": "Lynn Scripter",
+    "email": "lynn@scripter.com",
+    "phone": "800-876-3090",
+    "birthdate": "12/01/2008",
+    "id": 3
+  }
+]
