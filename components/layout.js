@@ -9,8 +9,8 @@ export default function Layout( { children, home } ) {
         <title>Basic Next.js App</title>
       </Head>
       <header>
-        <nav>
-          <a href="https://santarosa.edu">SRJC</a>
+        <nav className="text-center mx-auto">
+          <h1>Employee Records</h1>
         </nav>
       </header>
       <main>{children}</main>
